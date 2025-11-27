@@ -51,5 +51,3 @@
 </p>
 
 ---
-
-✨ *“Building solutions that benefit communities and protect the environment.”* ✨
