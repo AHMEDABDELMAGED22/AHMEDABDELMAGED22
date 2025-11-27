@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🎓 IT Student at **Minia University**, Egypt.  
 - 🏆 Trainee at **ICPC Minya University Community**.  
-- 🌱 Passionate about **building eco-conscious tech solutions**.  
+- 🌱 Passionate about **building tech solutions**.  
 - 💻 Strong foundation in **C++, Problem Solving, and React Development**.  
 
 ---
